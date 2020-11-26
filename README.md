@@ -3,7 +3,7 @@
 A theme switcher application ReactJS
 
 <p>
-  <img src="screenshots/p1.gif" alt="screenshot1" width="50%"/>
+  <img src="screenshots/p1.gif" alt="screenshot1"/>
 <p/>
 
 # Start project
